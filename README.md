@@ -16,7 +16,7 @@ To run this project on your machine, you need:
 Clone this repo:
 
 ```bash
-git clone git@github.com:O-clock-Tesla/projet-02-O-Network-front.git
+git clone git@github.com:Neoxgen/O-Network-Front.git
 ```
 
 In the newly created folder, install the dependencies:
